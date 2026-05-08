@@ -13,9 +13,9 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Crimson Royale — Ormawa",
+  title: "Astana Angkasa — Ormawa",
   description:
-    "Landing page resmi Crimson Royale — organisasi mahasiswa dengan semangat keberanian dan kehormatan.",
+    "Landing page resmi Astana Angkasa — Menata Asa, Wujudkan Karya, Menjulang ke Angkasa.",
 };
 
 export default function RootLayout({ children }) {
